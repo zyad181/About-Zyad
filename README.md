@@ -8,7 +8,7 @@ Currently open for:
 - ✅ Custom bot commissions
 - ✅ Bot maintenance & debugging
 
--# Let’s build something your community will actually use.
+Let’s build something your community will actually use.
 
 # Contact:
 
