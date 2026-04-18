@@ -15,4 +15,4 @@ Let’s build something your community will actually use.
 <a href="https://discord.com/users/1321538428365705228" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" height="40"/> </a>
 </div>
 
-# Hit the ⭐ [here](https://github.com/zyad181/About-Zyad/blob/main/README.md) if this made you smile 😁
+# Hit the ⭐ [here](https://github.com/zyad181/About-Zyad) if this made you smile 😁
